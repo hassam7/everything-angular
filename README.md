@@ -23,4 +23,7 @@ In no particular order.
 
 ## Misc
 [https://30.codelab.fun/](https://30.codelab.fun/)
+
 [https://github.com/Yonet/Angular-Interview-Questions](https://github.com/Yonet/Angular-Interview-Questions)
+
+[https://github.com/PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
