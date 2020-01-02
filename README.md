@@ -22,8 +22,12 @@ In no particular order.
 9. [https://www.lucidchart.com/techblog/](https://www.lucidchart.com/techblog/)
 
 ## Misc
-[https://30.codelab.fun/](https://30.codelab.fun/)
+- [https://30.codelab.fun/](https://30.codelab.fun/)
+- [https://github.com/Yonet/Angular-Interview-Questions](https://github.com/Yonet/Angular-Interview-Questions)
+- [https://github.com/PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
 
-[https://github.com/Yonet/Angular-Interview-Questions](https://github.com/Yonet/Angular-Interview-Questions)
+## Angular UI Libraries
 
-[https://github.com/PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
+- [https://clarity.design/](https://clarity.design/)
+- [https://ng.ant.design/docs/introduce/en](https://ng.ant.design/docs/introduce/en)
+- [https://akveo.github.io/nebular/](https://akveo.github.io/nebular/)
