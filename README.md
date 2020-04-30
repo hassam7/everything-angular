@@ -31,3 +31,8 @@ In no particular order.
 - [https://clarity.design/](https://clarity.design/)
 - [https://ng.ant.design/docs/introduce/en](https://ng.ant.design/docs/introduce/en)
 - [https://akveo.github.io/nebular/](https://akveo.github.io/nebular/)
+
+
+# Javascript
+- [https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ/videos](JS CAMP)
+- [https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA/playlists](You Gotta Love Frontend)
