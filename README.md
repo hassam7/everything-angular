@@ -36,3 +36,8 @@ In no particular order.
 # Javascript
 - [https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ/videos](JS CAMP)
 - [https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA/playlists](You Gotta Love Frontend)
+
+## Angular Articles Which I Liked:
+-- https://indepth.dev/heres-what-you-should-know-when-creating-flexible-and-reusable-components-in-angular/
+-- https://indepth.dev/private-providers/
+-- https://indepth.dev/5-tips-to-boost-your-angular-skills/
